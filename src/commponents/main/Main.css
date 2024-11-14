@@ -1,0 +1,419 @@
+.main {
+    background-image: url(https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-store-hero-image-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 580px;
+}
+
+.headline {
+    display: flex;
+    padding-top: 200px;
+    padding-left: 40px;
+    /* color: #CDC2A5; */
+    color: white;
+    font-size: 70px;
+}
+
+.para {
+    padding-top: 20px;
+    padding-left: 40px;
+    font-size: 20px;
+    color: white;
+}
+
+.btn {
+    display: flex;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.btn1 {
+    width: 180px;
+    height: 60px;
+    font-size: 17px;
+    font-weight: 400px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, .1);
+    cursor: pointer;
+}
+
+.btn2 {
+    width: 200px;
+    height: 60px;
+    margin-left: 30px;
+    font-size: 17px;
+    font-weight: 400px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, .1);
+    cursor: pointer;
+}
+
+.btn1:hover {
+    background-color: #28282B;
+    color: white;
+    transition: 0.20s;
+}
+
+.btn2:hover {
+    background-color: #28282B;
+    color: white;
+    transition: 0.20s;
+}
+
+.logo1 {
+    padding-left: 30px;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(248, 244, 244);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo2 {
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+    display: flex;
+    /* align-items: center; */
+}
+
+.logo4 {
+    padding-left: 60px;
+    padding-top: 80px;
+
+}
+
+.about {
+    color: orange;
+}
+
+.logo5 {
+    font-size: 50px;
+}
+
+.logo6 {
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+.btn3 {
+    padding-top: 40px;
+    border: none;
+    background-color: white;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: orange;
+    font-weight: 600;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.logo7 {
+    width: 100%;
+    height: auto;
+    background-color: #f1f1ef;
+    margin-top: 100px;
+}
+
+.logo8 {
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 50px;
+    padding-top: 60px;
+}
+
+.logo9 {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.logo10 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 70px;
+}
+
+.parag {
+    color: orange;
+}
+
+.head1 {
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.spann {
+    color: #a0a5a7;
+}
+
+.logo12 {
+    padding-top: 160px;
+}
+
+.parag1 {
+    color: orange;
+    padding-left: 145px;
+}
+
+.harsh1 {
+    padding-bottom: 100px;
+}
+
+.logo14 {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.head2 {
+    padding-left: 100px;
+}
+
+.btn4 {
+    border: solid;
+    margin-right: 100px;
+    border-width: 0px 0px 2px 0px;
+    border-color: orange;
+    background-color: white;
+    cursor: pointer;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.logo15 {
+    padding-top: 60px;
+    /* overflow-x: hidden; */
+    display: flex;
+    justify-content: space-around;
+    /* z-index: ; */
+    /* justify-content: space-between; */
+}
+
+.con1 {}
+
+.btn5 {
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(250, 248, 248);
+    background-color: rgb(250, 247, 247);
+    cursor: pointer;
+    border: none;
+}
+
+/* .logo15 {
+    display: flex;
+    justify-content: space-around;
+} */
+
+
+.logo16 {
+    padding-left: 60px;
+    padding-top: 30px;
+    color: black;
+    font-weight: 700;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.price {
+    margin-left: 160px;
+    margin-top: 10px;
+    color: #36454F;
+    font-size: 25px;
+    font-weight: 700;
+
+}
+
+.star {
+    margin-left: 153px;
+    margin-top: 10px;
+}
+
+.logo17 {
+    width: 100%;
+    /* height: auto; */
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.img {
+    width: 47%;
+    height: 600px;
+    background-image: url(https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-store-shop-men-image-thumbnail.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.img1 {
+    width: 47%;
+    height: 600px;
+    background-image: url(https://websitedemos.net/recycled-shoe-store-04/wp-content/uploads/sites/983/2021/11/recycled-shoe-store-shop-women-image-tumbnail.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.men{
+    margin-top: 40%;
+    padding-left: 40%;  
+}
+
+.nilesh{
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.btn6{
+    color: white;
+    width: 140px;
+    height: 50px;
+    background-color: transparent;
+    font-weight: 700;
+    cursor: pointer;
+    border: 3px solid white;
+    letter-spacing: 2px;
+
+}
+
+.btn6:hover{
+    background-color: white;
+    color: black;
+    transition: 0.2s;
+}
+
+.logo18{
+    margin-top: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #f1f1ef;
+    display: flex;
+    justify-content: space-around;
+}
+
+.hiten{
+    width: 40%;
+    line-height: 40px;
+}
+
+.word1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.prakash img{
+    border-radius: 180px;
+    border-style: dashed ; 
+    color: grey;
+}
+
+.logo19{
+    margin-top: 100px;
+}
+
+.cus{
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.rivew{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    
+}
+
+.rivew1{
+    padding-top: 25px;
+    padding-left: 20px;
+    width: 30%;
+    border: 1px solid gray;
+}
+
+.rivew1 p{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 40px;
+}
+
+.rivew1 img{
+    border-radius: 180px;
+}
+
+.rivew2{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.rivew2 p{
+    padding-left: 20px;
+    letter-spacing: 2px;
+    color: #a0a5a7;
+}
+
+.rating{
+    margin-top: 40px;
+    /* margin-bottom: 40px; */
+    display: flex;
+    justify-content: center;
+    color: #a0a5a7;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.delivery{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.payment{
+    display: flex;
+    align-items: center;
+}
+
+.payment h2{
+    padding-left: 10px;
+}
+
+.con1 img:hover{
+    cursor: pointer;
+    scale: 1.1;
+    
+}
+
+ .btn5:hover{
+    background: rgb(2, 2, 2);
+}
+
+
+
+
+
+
+
